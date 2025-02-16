@@ -1,4 +1,4 @@
-package com.dsa.problems;
+package com.dsa.tree.problems;
 
 import com.dsa.tree.node.TreeNode;
 

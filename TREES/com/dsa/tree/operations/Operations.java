@@ -1,4 +1,4 @@
-package com.dsa.tree.problems;
+package com.dsa.tree.operations;
 
 import com.dsa.tree.node.TreeNode;
 
@@ -13,4 +13,5 @@ public class Operations<V> {
         System.out.print(root.data+"->");
         inOrder(root.right);
     }
+
 }
